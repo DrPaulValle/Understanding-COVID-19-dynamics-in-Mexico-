@@ -22,8 +22,13 @@ where S(t) represents the susceptible population in Mexico, i.e., those who have
 
 # References
 [1] Gobierno de México (n.d.). COVID-19 México [Online]. Available in: https://datos.covid-19.conacyt.mx/
+
 [2] Febres, Gerardo L., and Carlos Gershenson. "A Deterministic–Statistical Hybrid Forecast Model: The Future of the COVID-19 Contagious Process in Several Regions of Mexico." Systems 10.5 (2022): 138. https://doi.org/10.3390/systems10050138
+
 [3] Wyss, Alejandra, and Arturo Hidalgo. "Modeling COVID-19 Using a Modified SVIR Compartmental Model and LSTM-Estimated Parameters." Mathematics 11.6 (2023): 1436. https://doi.org/10.3390/math11061436
+
 [4] Pham, Hoang. "On estimating the number of deaths related to Covid-19." Mathematics 8.5 (2020): 655. https://doi.org/10.3390/math8050655 
+
 [5] Perone, Gaetano. "Using the SARIMA model to forecast the fourth global wave of cumulative deaths from COVID-19: Evidence from 12 hard-hit big countries." Econometrics 10.2 (2022): 18. https://doi.org/10.3390/econometrics10020018
+
 [6] F. Brauer, C. Castillo-Chavez and Z. Feng, Mathematical models in epidemiology. Vol. 32. New York: Springer, 2019.
